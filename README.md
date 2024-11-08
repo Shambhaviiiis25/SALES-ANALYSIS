@@ -14,3 +14,15 @@ Qty: Quantity of the product. (Integer)
 Amount: Amount of the sale. (Float)
 B2B: Business to business sale. (Boolean)
 Currency: The currency used for the sale. (String)
+
+Following key questions were answered to generate insights from the Amazon sales dataset:
+1)What are the total sales figures for each product or order?
+2)Which month had the highest sales performance?
+3)Which states contribute the most to the total sales?
+4)Which product categories generate the most revenue?
+5)What is the Average order Value for each month?
+6)What is the delivery status?
+7)To find out if there is any correlation between Shipping speed and sales revenue?
+8)To find out which product size gets highest number of rejections?
+9)To find out which product category gets highest number of Cancellations?
+10)To find out which state has the most number of orders "shipped" and orders "cancelled"?
