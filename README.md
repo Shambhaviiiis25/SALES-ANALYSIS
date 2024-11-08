@@ -26,3 +26,8 @@ Following key questions were answered to generate insights from the Amazon sales
 8)To find out which product size gets highest number of rejections?
 9)To find out which product category gets highest number of Cancellations?
 10)To find out which state has the most number of orders "shipped" and orders "cancelled"?
+
+The analysis involved a thorough approach to generate insights, which included:
+
+Data Cleaning and Analysis: Utilized Python libraries such as Pandas and NumPy for effective data cleaning, organization, and analysis.
+Data Visualization: Leveraged Power BI to create interactive visualizations and detailed reports, aiding in the clear communication of findings.
