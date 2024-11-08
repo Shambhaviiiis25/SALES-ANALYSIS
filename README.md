@@ -29,5 +29,5 @@ Following key questions were answered to generate insights from the Amazon sales
 
 The analysis involved a thorough approach to generate insights, which included:
 
-Data Cleaning and Analysis: Utilized Python libraries such as Pandas and NumPy for effective data cleaning, organization, and analysis.
-Data Visualization: Leveraged Power BI to create interactive visualizations and detailed reports, aiding in the clear communication of findings.
+Data Cleaning and Analysis: Utilized Python libraries such as Pandas and NumPy for effective data cleaning, organization and analysis.
+Data Visualization: Leveraged Power BI to create interactive visualizations.
